@@ -84,3 +84,4 @@
     <a href="https://www.github.com/bugbreaker18">GitHub Profile</a>
   </li>
 </ul>
+<p>: <a href = "https://colab.research.google.com/drive/1pbBh_Rplwk9431udmESdexsqncvPCY50?usp=sharing">Colab_Link</a></p>
