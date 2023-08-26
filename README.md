@@ -82,6 +82,10 @@
   </li>
   <li>
     <a href="https://www.github.com/bugbreaker18">GitHub Profile</a>
+  <li>
+    <p>: <a href = "https://colab.research.google.com/drive/1pbBh_Rplwk9431udmESdexsqncvPCY50?usp=sharing">Colab_Link</a></p>
+
+  </li>
   </li>
 </ul>
-<p>: <a href = "https://colab.research.google.com/drive/1pbBh_Rplwk9431udmESdexsqncvPCY50?usp=sharing">Colab_Link</a></p>
+<p> COntribute using some other approach!</p>
